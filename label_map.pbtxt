@@ -1,0 +1,13 @@
+item {
+  id: 1
+  name: "person"
+}
+item {
+  id: 2
+  name: "phone"
+}
+item {
+  id: 3
+  name: "book"
+}
+
